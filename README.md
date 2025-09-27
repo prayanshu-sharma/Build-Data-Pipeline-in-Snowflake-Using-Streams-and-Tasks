@@ -72,6 +72,7 @@ INSERT INTO raw_order(order_id,customer,amount,created_at) VALUES
 (4,'Pooja',199,CURRENT_TIMESTAMP);
 
 --Target Table 
+
 select * from processed_order;
 
 <img width="1900" height="723" alt="image" src="https://github.com/user-attachments/assets/8905599e-941b-4c8f-bd03-e570acd577ba" />
